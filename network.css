@@ -1,0 +1,94 @@
+.container{
+    width: 750px;
+    height: 60px;
+    background-color: rgb(255, 0, 0);
+    margin-left: 300px;
+    padding: 5px;
+}
+.net h1{
+    color: rgb(255, 255, 255);
+    margin-left: 300px;
+    font-style: oblique;
+}
+.feed h1{
+    color: black;
+    margin-left: 300px;
+}
+.left_col{
+    width: 200px;
+    height: 350px;
+    border: 5px solid black;
+    background-color: yellow;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    border-radius: 85px;
+}
+.avatar{
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: purple;
+}
+.james h1{
+    margin-left: 25px;
+    color: black;
+}
+.right_col{
+    border: 5px solid rgb(0, 85, 255);
+    background-color: lightskyblue;
+    width: 450px;
+    height: 200px;
+    margin-left: 250px;
+    margin-top: -330px;
+}
+.neil h1{
+    margin-left: 20px;
+}
+p{
+    font-weight: bold;
+    font-size: large;
+    margin-left: 5px;
+}
+h4{
+    float: right;
+    margin-top: -100px;
+    margin-right: 150px;
+}
+.right_col2{
+    border: 5px solid rgb(0, 85, 255);
+    background-color: lightskyblue;
+    width: 450px;
+    height: 200px;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.nichole h1{
+    margin-left: 10px;
+}
+.right_col3{
+    border: 5px solid rgb(0, 85, 255);
+    background-color: lightskyblue;
+    width: 450px;
+    height: 200px;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.jim h1{
+    margin-left: 10px;
+}
+button{
+    width: 135px;
+    height: 25px;
+    margin-left: 300px;
+    background-color: yellow;
+    border-right: 4px solid;
+    border-bottom: 4px solid;
+    border-top: 3px solid;
+    border-left: 3px solid;
+}
+.feed{
+    font-style: oblique;
+}
+
